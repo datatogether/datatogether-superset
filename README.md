@@ -4,7 +4,10 @@
 
 [![GitHub](https://img.shields.io/badge/project-Data_Together-487b57.svg?style=flat-square)](http://github.com/datatogether)
 [![Slack](https://img.shields.io/badge/slack-Archivers-b44e88.svg?style=flat-square)](https://archivers-slack.herokuapp.com/)
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](./LICENSE) 
+[![License](https://img.shields.io/github/license/datatogether/datatogether_superset.svg)](./LICENSE) 
+
+Project for hosting DataTogether's Superset instance on Heroku, for visualizing 
+live project data in dashboards.
 
 **[Heroku][]** is a platform for easily hosting web apps.
 
@@ -14,12 +17,9 @@ application.
    [Heroku]: https://www.heroku.com/about
    [Superset]: https://medium.com/airbnb-engineering/caravel-airbnb-s-data-exploration-platform-15a72aa610e5
 
-This project is for hosting DataTogether's Superset instance on Heroku, for
-visualizing live project data in dashboards.
-
 ## License & Copyright
 
-Copyright (C) <year> Data Together
+Copyright (C) 2017 Data Together  
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU Affero General Public License as published by the Free Software
 Foundation, version 3.0.
